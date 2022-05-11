@@ -1,5 +1,5 @@
 let canvas = new fabric.Canvas('canvas');
-canvas.setDimensions({width:screen.width-60, height:screen.height-200});
+canvas.setDimensions({width:screen.width-60, height:screen.height-300});
 
 canvas.selectionColor = 'rgba(0,255,0,0.3)';
 canvas.selectionBorderColor = 'red';
