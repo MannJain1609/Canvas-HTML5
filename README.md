@@ -12,4 +12,4 @@ The Draw Label button adds the label to the polygon at prescribed location.
 
 The web app is deployed on varcel. It can be accessed via the following link:
 
-https://vercel.com/mannjain1609/canvas-html-5
+https://canvas-html-5.vercel.app/
